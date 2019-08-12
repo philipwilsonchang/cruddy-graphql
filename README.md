@@ -1,10 +1,11 @@
-This project was an exploratory effort to convert my hooks-library repo to Typescript.
+This project was an exploratory effort to convert my hooks-library-ts repo to use GraphQL and Apollo Client.
 
 Dependencies:
-Node 10.16
-npm 6.10.1
-React 16.8
-Typescript 3.5.3
+- Node 10.16
+- npm 6.10.1
+- React 16.8
+- Typescript 3.5.3
+- Apollo Client 2.6
 
 To install this project locally:
 
